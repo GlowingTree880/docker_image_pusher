@@ -6,3 +6,4 @@ xhofe/alist:latest
 --platform=linux/arm64 xiaoyaliu/alist
 sourceservers/left4dead2:2239-layered
 sourceservers/left4dead2:2240-layered
+sourceservers/left4dead2:2241-layered
