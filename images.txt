@@ -7,3 +7,4 @@ xhofe/alist:latest
 sourceservers/left4dead2:2239-layered
 sourceservers/left4dead2:2240-layered
 sourceservers/left4dead2:2241-layered
+sourceservers/left4dead2:2242-layered
